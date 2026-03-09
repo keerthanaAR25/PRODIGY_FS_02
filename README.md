@@ -1,10 +1,11 @@
 📊 EmpAxis Pro — Employee Management System
-
+-----------
 A production-style Full-Stack Employee Management System built using the MERN Stack that enables organizations to efficiently manage employees, departments, analytics, and activity logs through a modern admin dashboard.
 
 The platform simulates a real enterprise HR management solution with authentication, role-based access control, and analytics visualization.
 
 🚀 Features
+---------
 👨‍💼 Employee Management
 
 Create employee profiles with full details
@@ -176,6 +177,7 @@ npm install ajv@^8.0.0 --save --legacy-peer-deps
 npm start
 
 📊 Key Learning Outcomes
+-------
 
 This project helped strengthen my understanding of:
 
